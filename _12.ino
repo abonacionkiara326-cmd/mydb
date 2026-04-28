@@ -28,6 +28,7 @@ Student students[] = {
   {"2A B8 CA B3", "Khean Landero", false, 0},
   {"95 52 22 07", "Grace Kadusale", false, 0},
   {"BC 34 01 29", "Mark Malasabas", false, 0}
+  {"A1 08 06 02", "Kiara Abonacion", false, 0}
 };
 
 int totalStudents = sizeof(students) / sizeof(students[0]);
